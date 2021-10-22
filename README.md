@@ -1,5 +1,23 @@
 # ✨️ C Programs (Basic to Advanced Level - Chapter wise) 🚀️
 
+## 🎯️ Tutorial Table
+| Days  | Topics |
+| ------------- | ------------- |
+| Day 1  | Chapter 1: Variables, Constants, and Keywords  |
+| Day 2  | Chapter 2: Instructions and Operators  |
+| Day 3  | Chapter 3: Conditional Instructions  |
+| Day 4  | Chapter 4 - Loop Control Instruction  |
+| Day 5  | Project 1: Number Guessing Game  |
+| Day 6  | Chapter 5 - Functions and Recursions  |
+| Day 7  | Chapter 6 - Pointers  |
+| Day 8  | Chapter 7 - Arrays  |
+| Day 9  | Chapter 8 - Strings  |
+| Day 10  | Chapter 9 - Structures  |
+| Day 11  | Chapter 10 - File I/O  |
+| Day 12  | Project 2: Snake, Water, Gun  |
+| Day 13  | Chapter 11 - Dynamic Memory Allocation  |
+
+
 ## 💻️ Local Environment Setup
 If you are still willing to set up your environment for C, you need to have the following two softwares on your computer.
 
